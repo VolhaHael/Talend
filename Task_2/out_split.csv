@@ -1,0 +1,111 @@
+ACCOUNT_KEY,PAYMENT,SubRegion,Region,COUNTRY_KEY,DISCOUNT
+9000116169,322.0,Netherlands,North,528,0.9
+9000074065,345.0,Great Britain,North,826,0.9
+9000003609,161.0,Central Europe,East,40,0.9
+9000009815,57.5,Eastern Europe,East,100,0.9
+9000132628,161.0,Central Europe,East,276,0.9
+9000055888,241.5,Eastern Europe,East,203,0.9
+9000078267,57.5,Netherlands,North,528,0.9
+9000171636,345.0,South East Europe,South,380,0.9
+9000085172,345.0,South East Europe,South,380,0.9
+9000077212,57.5,Eastern Europe,East,616,0.9
+9000120382,241.5,Eastern Europe,East,348,0.9
+9000201470,57.5,Central Europe,East,276,0.9
+9000182954,345.0,Great Britain,North,372,0.9
+9000008813,241.5,Eastern Europe,East,348,0.9
+9000138271,517.5,France International,West,250,0.9
+9000080165,57.5,Eastern Europe,East,642,0.9
+9000110274,161.0,Central Europe,East,276,0.9
+9000216642,322.0,Netherlands,North,528,0.9
+9000051457,345.0,France International,West,250,0.9
+9000146565,57.5,Netherlands,North,528,0.9
+9000201799,241.5,Eastern Europe,East,703,0.9
+9000132230,345.0,France International,West,250,0.9
+9000024363,161.0,Central Europe,East,276,0.9
+9000058501,57.5,Great Britain,North,826,0.9
+9000134056,517.5,France International,West,250,0.9
+9000011451,517.5,France International,West,250,0.9
+9000203495,161.0,Central Europe,East,276,0.9
+9000029381,57.5,Great Britain,North,826,0.9
+9000217326,241.5,Eastern Europe,East,616,0.9
+9000041330,161.0,Central Europe,East,276,0.9
+9000194483,57.5,Eastern Europe,East,348,0.9
+9000167229,161.0,Nordics,North,208,0.9
+9000214371,517.5,France International,West,250,0.9
+9000161503,345.0,Iberica,South,724,0.9
+9000196095,161.0,Central Europe,East,276,0.9
+9000094445,345.0,France International,West,250,0.9
+9000154428,57.5,Central Europe,East,276,0.9
+9000073560,345.0,France International,West,250,0.9
+9000105204,172.5,South East Europe,South,380,0.9
+9000002357,517.5,France International,West,250,0.9
+9000030498,161.0,Netherlands,North,528,0.7
+9000083532,57.5,Netherlands,North,528,0.7
+9000134232,57.5,Central Europe,East,276,0.7
+9000175599,57.5,Netherlands,North,528,0.7
+9000029315,345.0,France International,West,250,0.7
+9000157894,57.5,BeLux,North,56,0.7
+9000157031,57.5,Eastern Europe,East,792,0.7
+9000160614,161.0,Central Europe,East,40,0.7
+9000098672,161.0,Central Europe,East,276,0.7
+9000139555,241.5,Eastern Europe,East,348,0.7
+9000173320,57.5,Eastern Europe,East,642,0.7
+9000085213,57.5,Iberica,South,620,0.7
+9000207019,57.5,Iberica,South,724,0.7
+9000108212,57.5,Eastern Europe,East,100,0.7
+9000027912,161.0,Central Europe,East,276,0.7
+9000136592,57.5,Central Europe,East,276,0.7
+9000168747,241.5,Eastern Europe,East,616,0.7
+9000168058,57.5,France International,West,250,0.7
+9000182798,241.5,Eastern Europe,East,348,0.7
+9000133686,57.5,BeLux,North,56,0.7
+9000069817,57.5,Netherlands,North,528,0.7
+9000169070,57.5,Central Europe,East,756,0.7
+9000018333,161.0,Central Europe,East,276,0.7
+9000208402,57.5,Eastern Europe,East,642,0.7
+9000130105,172.5,Iberica,South,620,0.7
+9000161710,161.0,Central Europe,East,276,0.7
+9000002043,241.5,Eastern Europe,East,642,0.7
+9000005752,161.0,Central Europe,East,756,0.7
+9000076608,161.0,Central Europe,East,276,0.7
+9000150994,161.0,Central Europe,East,276,0.7
+9000011995,161.0,Central Europe,East,276,0.7
+9000099054,345.0,France International,West,250,0.7
+9000074017,57.5,Eastern Europe,East,440,0.7
+9000197550,57.5,South East Europe,South,380,0.7
+9000162313,345.0,South East Europe,South,380,0.7
+9000055084,322.0,Netherlands,North,528,0.7
+9000020831,345.0,France International,West,250,0.7
+9000079313,345.0,South East Europe,South,380,0.7
+9000043062,241.5,Eastern Europe,East,203,0.7
+9000013676,115.0,BeLux,North,442,0.7
+9000209802,161.0,Central Europe,East,276,0.7
+9000106148,57.5,Central Europe,East,276,0.7
+9000089019,161.0,Central Europe,East,276,0.7
+9000032733,57.5,Eastern Europe,East,616,0.7
+9000020435,345.0,France International,West,250,0.7
+9000073385,241.5,Eastern Europe,East,616,0.7
+9000132049,57.5,Great Britain,North,826,0.7
+9000114515,241.5,Eastern Europe,East,616,0.7
+9000096299,57.5,Central Europe,East,40,0.7
+9000035414,241.5,Eastern Europe,East,348,0.7
+9000140721,57.5,France International,West,250,0.7
+9000022792,345.0,BeLux,North,56,0.7
+9000085720,161.0,Central Europe,East,276,0.7
+9000095108,345.0,France International,West,250,0.7
+9000062548,161.0,Central Europe,East,276,0.7
+9000005968,172.5,Iberica,South,724,0.7
+9000104535,517.5,France International,West,250,0.7
+9000141256,241.5,Eastern Europe,East,642,0.7
+9000163412,57.5,France International,West,250,0.7
+9000091594,161.0,Central Europe,East,276,0.7
+9000149202,517.5,France International,West,250,0.7
+9000136905,57.5,Iberica,South,724,0.7
+9000059113,322.0,Netherlands,North,528,0.7
+9000192203,517.5,France International,West,250,0.7
+9000136710,241.5,Eastern Europe,East,616,0.7
+9000117241,345.0,South East Europe,South,380,0.7
+9000031186,172.5,Iberica,South,724,0.7
+9000134594,345.0,South East Europe,South,380,0.7
+9000086817,57.5,Eastern Europe,East,807,0.7
+9000217562,57.5,Eastern Europe,East,642,0.7
